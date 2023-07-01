@@ -1,0 +1,22 @@
+#main{
+	height: 225px;
+	width: 50%;
+	margin: 0 auto;
+	background-color: rgb(50, 49, 47);
+}
+
+h1{
+	color: rgb(214, 163, 105);
+	margin-left: 10px;
+	font-family: Verdana;
+}
+
+h2{
+	color: rgb(214, 163, 105);
+	margin-left: 10px;
+	font-family: Verdana;
+}
+
+input{
+	margin-left: 10px;
+}

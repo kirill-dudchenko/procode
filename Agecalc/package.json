@@ -1,0 +1,24 @@
+{
+  "name": "agecalc",
+  "version": "1.0.0",
+  "description": "Calculating age using moment module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirill-dudchenko/agecalc.git"
+  },
+  "author": "kirill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirill-dudchenko/agecalc/issues"
+  },
+  "homepage": "https://github.com/kirill-dudchenko/agecalc#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
